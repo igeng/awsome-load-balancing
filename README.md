@@ -1,5 +1,5 @@
 # Awesome Load Balancing
-A paper list of awesome research on monitoring data analysis, log analysis, decision scheduling and AIOps.
+A paper list of awesome research on load balancing, monitoring data analysis, log analysis, decision scheduling and AIOps.
 
 ## Papers
 
